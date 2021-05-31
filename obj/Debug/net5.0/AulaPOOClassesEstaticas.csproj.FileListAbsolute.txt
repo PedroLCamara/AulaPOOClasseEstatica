@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\bin\Debug\net5.0\AulaPOOClassesEstaticas.exe
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\bin\Debug\net5.0\AulaPOOClassesEstaticas.deps.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\bin\Debug\net5.0\AulaPOOClassesEstaticas.runtimeconfig.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\bin\Debug\net5.0\AulaPOOClassesEstaticas.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\bin\Debug\net5.0\AulaPOOClassesEstaticas.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\bin\Debug\net5.0\ref\AulaPOOClassesEstaticas.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\bin\Debug\net5.0\AulaPOOClassesEstaticas.pdb
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\obj\Debug\net5.0\AulaPOOClassesEstaticas.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\obj\Debug\net5.0\AulaPOOClassesEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\obj\Debug\net5.0\AulaPOOClassesEstaticas.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\obj\Debug\net5.0\AulaPOOClassesEstaticas.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\obj\Debug\net5.0\AulaPOOClassesEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\obj\Debug\net5.0\AulaPOOClassesEstaticas.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\obj\Debug\net5.0\ref\AulaPOOClassesEstaticas.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\obj\Debug\net5.0\AulaPOOClassesEstaticas.pdb
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint4\AulaPOOClassesEstaticas\obj\Debug\net5.0\AulaPOOClassesEstaticas.genruntimeconfig.cache
